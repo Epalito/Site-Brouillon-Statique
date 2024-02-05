@@ -1,0 +1,27 @@
+img {
+    width: 400px;
+    height: 400px;
+    object-position: 70px;
+}
+
+span.superlatif {
+    color: #f00;
+}
+
+.police {
+    font: italic 2em "Fira Sans", serif;
+}
+
+.brd {
+    border: 6px ridge rgb(229, 216, 147);
+    border-radius: 30px 10px;
+    background-color: rgb(218, 201, 56);
+}
+
+.longueur_px {
+    width: 115px;
+}
+
+body {
+    background: linear-gradient(to right, rgb(11, 112, 196), rgb(132, 179, 132));
+}
